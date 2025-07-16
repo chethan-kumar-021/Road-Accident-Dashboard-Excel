@@ -24,4 +24,4 @@ This project visualizes road accident data using Microsoft Excel, focusing on ke
 ![Dashboard](Road%20Accident%20Dashboard.png)
 
 ## 🤝 Let's Connect
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/chethan-kumar-021/](https://www.linkedin.com/in/chethan-kumar-marella-8aa295235/))
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chethan-kumar-marella-8aa295235/)
